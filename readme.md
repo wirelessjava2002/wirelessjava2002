@@ -1,6 +1,6 @@
 # 👋 Hi, I'm wirelessjava2002
 
-Welcome to my GitHub profile! I'm a full stack developer specializing in **Java**, **Kotlin**, **Spring**, **AWS**, and AI/ML frameworks. Here, I showcase my journey in AI and Machine Learning through a series of diverse projects, each using different frameworks, techniques, and tools. Feel free to explore, connect, and reach out if you're interested in collaboration or discussing AI/ML projects!
+Welcome to my GitHub profile! I'm a full stack developer specializing in **Java**, **Kotlin**, **React**, **Spring**, **AWS**, and AI/ML frameworks. Here, I showcase my journey in AI and Machine Learning through a series of diverse projects, each using different frameworks, techniques, and tools. Feel free to explore, connect, and reach out if you're interested in collaboration or discussing AI/ML projects!
 
 ---
 
