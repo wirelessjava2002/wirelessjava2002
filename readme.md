@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a full stack developer specializing in **Java*
 
 ## 🚀 Featured Projects
 
-### 1. [**Space Invaders with TensorFlow**](https://github.com/wirelessjava2002/space-invaders-tensorflow)
+### 1. [**Space Invaders game playing agent (TensorFlow)**](https://github.com/wirelessjava2002/space-invaders-tensorflow)
    - **Description**: A reinforcement learning project where an agent learns to play the classic Space Invaders game. This project showcases the use of deep Q-learning in a gaming environment, training an AI to make strategic decisions in real time.
    - **Technologies**: TensorFlow, OpenAI Gym, Python
    - **Highlights**:
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a full stack developer specializing in **Java*
      - Demonstrates reinforcement learning concepts and environment interaction.
    - **Repo**: [Space Invaders with TensorFlow Repository](https://github.com/wirelessjava2002/space-invaders-tensorflow)
    - 
-### 2 [**50p Coin Classifier**](https://github.com/wirelessjava2002/50p-coin-classifier)
+### 2 [**50p Coin Classifier (Android)**](https://github.com/wirelessjava2002/50p-coin-classifier)
    - **Description**: A computer vision model built to classify 50p coins based on their year and design. Leveraging convolutional neural networks, this project demonstrates image classification techniques and practical applications of object recognition.
    - **Technologies**: TensorFlow, OpenCV, Python
    - **Highlights**:
